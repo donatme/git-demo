@@ -7,4 +7,5 @@ from the lines
 Shield by shield
 side by side
 We're marching
-__________________
+
+New lines!
