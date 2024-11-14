@@ -2,3 +2,6 @@ sword is spear
 wall is high
 as well i need to go
 to other side of planet
+
+from the lines
+Shielkd by shield
